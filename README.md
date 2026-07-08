@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![My Skills](https://skillicons.dev/icons?perline=7&theme=dark&i=python,django,html,css,js,ts,react,vue,php,wordpress,postgres,mysql,docker,vscode)
+
 <!--
 **datsvs/datsvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
